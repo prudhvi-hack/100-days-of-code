@@ -3,8 +3,10 @@
 ### R1Day 1: June 12, Friday
 
 **Today's Progress**: I've gone through free code camp html5 basics I completed all of the basic html
+
 **my bolg work**: I've made my app responsive
-[link to my app](prudhvi.codes)
+
+[link to my app](www.prudhvi.codes)
 
 
 
