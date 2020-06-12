@@ -6,7 +6,7 @@
 
 **my bolg work**: I've made my app responsive
 
-[link to my app](www.prudhvi.codes)
+[link to my app](https://prudhvi.codes)
 
 
 
